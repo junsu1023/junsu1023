@@ -1,6 +1,6 @@
 # **🙌Hi, There🙌** 
 I'm Kim Junsu<br>
-I am a student studying in the computer science at [Koreatech](https://cse.koreatech.ac.kr/)
+I graduated from university with a degree in computer science engineering at [Koreatech](https://cse.koreatech.ac.kr/)
 
 # **🔎Skill🔍**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
