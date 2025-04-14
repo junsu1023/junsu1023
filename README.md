@@ -13,5 +13,6 @@ I graduated from university with a degree in computer science engineering at [Ko
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 # **My Stats**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu1023&show_icons=true&theme=radical) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsu1023)](https://solved.ac/junsu1023/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu1023&show_icons=true&theme=radical)  
+
+[![BOJ](https://bojstat.vulcan.site/v2/ko/junsu1023)](https://www.acmicpc.net/user/junsu1023)
